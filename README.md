@@ -1,4 +1,26 @@
 温馨提示：所有安装包最终都存储在百度云盘下载,所有安装包均为tar包,其中Linux都是对应ubuntu系统使用的<br>
+cudnn9.10.1
+
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>cudnn-windows-x86_64-9.10.1.4_cuda11-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWTl55sbA==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.10.1.4_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWTl55saw==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.10.1.4_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWTl55saQ==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.10.1.4_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWTl55saA==">下载</a></td></tr>
+</tbody>
+</table>
+cudnn9.8.0
+
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>cudnn-windows-x86_64-9.8.0.87_cuda11-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWTl55sZw==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.8.0.87_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWTl55sZg==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.8.0.87_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWTl55sZQ==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.8.0.87_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWTl55sZA==">下载</a></td></tr>
+</tbody>
+</table>
 cudnn9.7.1
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
