@@ -63,6 +63,8 @@ cuda安装包系列
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>cuda_12.9.0_576.02_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZWTl55qbA==">下载</a></td></tr>
+<tr><td>cuda_12.8.1_572.61_windows.exe</td><td><a href="https://mbd.pub/o/bread/YZWTl55qaw==">下载</a></td></tr>
 <tr><td>cuda_12.8.0_571.96_windows.exe</td><td><a href="https://mbd.pub/o/bread/Z56bmJlx">下载</a></td></tr>
 <tr><td>cuda_12.6.3_561.17_windows.exe</td><td><a href="https://mbd.pub/o/bread/Z56bmJlr">下载</a></td></tr>
 <tr><td>cuda_12.6.0_560.76_windows.exe</td><td><a href="https://mbd.pub/o/bread/Z5iZmZht">下载</a></td></tr>
