@@ -1,6 +1,16 @@
 温馨提示：所有安装包最终都存储在百度云盘下载,所有安装包均为tar包,其中Linux都是对应ubuntu系统使用的<br>
-cudnn9.10.1
+cudnn9.10.2
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>cudnn-windows-x86_64-9.10.2.21_cuda12-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWVlJtrZQ==">下载</a></td></tr>
+<tr><td>cudnn-windows-x86_64-9.10.2.21_cuda11-archive.zip</td><td><a href="https://mbd.pub/o/bread/YZWVlJtrZw==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.10.2.21_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWVlJtqbQ==">下载</a></td></tr>
+<tr><td>cudnn-linux-x86_64-9.10.2.21_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWVlJtrZg==">下载</a></td></tr>
+</tbody>
+</table>
 
+cudnn9.10.1
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -10,8 +20,8 @@ cudnn9.10.1
 <tr><td>cudnn-linux-x86_64-9.10.1.4_cuda12-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWTl55saA==">下载</a></td></tr>
 </tbody>
 </table>
-cudnn9.8.0
 
+cudnn9.8.0
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -21,6 +31,7 @@ cudnn9.8.0
 <tr><td>cudnn-linux-x86_64-9.8.0.87_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWTl55sZA==">下载</a></td></tr>
 </tbody>
 </table>
+
 cudnn9.7.1
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
@@ -31,6 +42,7 @@ cudnn9.7.1
 <tr><td>cudnn-linux-x86_64-9.7.1.26_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/Z56bmJpt">下载</a></td></tr>
 </tbody>
 </table>
+
 cudnn9.7.0
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
@@ -41,6 +53,7 @@ cudnn9.7.0
 <tr><td>cudnn-linux-x86_64-9.7.0.66_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/Z56ck51t">下载</a></td></tr>
 </tbody>
 </table>
+
 cudnn9.6.0
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
@@ -51,6 +64,7 @@ cudnn9.6.0
 <tr><td>cudnn-linux-x86_64-9.6.0.74_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/Z56ck59s">下载</a></td></tr>
 </tbody>
 </table>
+
 cudnn9.5.1
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
@@ -61,6 +75,7 @@ cudnn9.5.1
 <tr><td>cudnn-linux-x86_64-9.5.1.17_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/Z5iZmZdr">下载</a></td></tr>
 </tbody>
 </table>
+
 cudnn9.5.0
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
@@ -71,6 +86,7 @@ cudnn9.5.0
 <tr><td>cudnn-linux-x86_64-9.5.0.50_cuda11-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/Zp2YmJht">下载</a></td></tr>
 </tbody>
 </table>
+
 cudnn9.4.0
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
