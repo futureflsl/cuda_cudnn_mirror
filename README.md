@@ -1,4 +1,5 @@
 温馨提示：所有安装包均为tar包,其中Linux都是对应ubuntu系统使用的<br>
+访问表格进行下载：https://www.kdocs.cn/l/ctMDRfWFRyiu
 cudnn9.11.0
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
