@@ -322,6 +322,25 @@ cudnn8.4.0
 <tr><td>cudnn-linux-x86_64-8.4.0.27_cuda10.2-archive.tar.xz</td><td><a href="https://mbd.pub/o/bread/YZWVmJpsZQ==">下载</a></td></tr>
 </tbody>
 </table>
+
+cudnn8.2.1
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>cudnn-11.3-windows-x64-v8.2.1.32.zip</td><td><a href="https://mbd.pub/o/bread/YZWWlZxraA==">下载</a></td></tr>
+<tr><td>cudnn-11.3-linux-x64-v8.2.1.32.tgz</td><td><a href="https://mbd.pub/o/bread/YZWWlZxrZw==">下载</a></td></tr>
+</tbody>
+</table>
+
+cudnn8.1.0
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>cudnn-11.2-windows-x64-v8.1.0.77.zip</td><td><a href="https://mbd.pub/o/bread/YZWWlZxrag==">下载</a></td></tr>
+<tr><td>cudnn-11.2-linux-x64-v8.1.0.77.tgz</td><td><a href="https://mbd.pub/o/bread/YZWWlZxraQ==">下载</a></td></tr>
+</tbody>
+</table>
+
 cuda安装包系列
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
