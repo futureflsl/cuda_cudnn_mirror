@@ -344,5 +344,16 @@ cuda安装包系列
 <tr><td>cuda_11.7.1_516.94_windows.exe</td><td><a href="https://mbd.pub/o/bread/Z5iZmZdw">下载</a></td></tr>
 <tr><td>cuda_11.6.2_511.65_windows.exe</td><td><a href="https://mbd.pub/o/bread/Z5iZmZhs">下载</a></td></tr>
 <tr><td>cuda_11.5.1_496.13_windows.exe</td><td><a href="https://mbd.pub/o/bread/Z5iZmZdy">下载</a></td></tr>
+<tr><td>cuda_11.4.1_471.41_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZptbQ==">下载</a></td></tr>
+<tr><td>cuda_11.4.0_471.11_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZptbA==">下载</a></td></tr>
+<tr><td>cuda_11.3.1_465.89_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZpsZg==">下载</a></td></tr>
+<tr><td>cuda_11.3.0_465.89_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZpsZw==">下载</a></td></tr>
+<tr><td>cuda_11.2.0_460.89_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZpsbA==">下载</a></td></tr>
+<tr><td>cuda_11.1.1_456.81_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZpsaw==">下载</a></td></tr>
+<tr><td>cuda_11.1.0_456.43_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZpsaA==">下载</a></td></tr>
+<tr><td>cuda_11.0.2_451.48_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZpsbQ==">下载</a></td></tr>
+<tr><td>cuda_10.2.89_441.22_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZptZg==">下载</a></td></tr>
+<tr><td>cuda_10.1.243_426.00_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZptaA==">下载</a></td></tr>
+<tr><td>cuda_10.0.130_411.31_win10.exe</td><td><a href="https://mbd.pub/o/bread/YZWWlZptZw==">下载</a></td></tr>
 </tbody>
 </table>
